@@ -15,6 +15,7 @@ In this assignment you will write a program that displays the Olympic Rings. You
 1. Write your code in Processing. Save your work!
 1. When you're done, come back to github and fork this repo.
 1. Update your forked version of `OlympicRings.pde`.
+1. Update the header and footer text of `index.html`.
 1. Check your work at `<YourUsername>.github.io/OlympicRings`
 1. Submit that link on google classroom.
 
