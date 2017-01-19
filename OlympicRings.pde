@@ -1,3 +1,13 @@
-// replace this with your code
-size(100, 100);
-ellipse(50, 50, 50, 50);
+size (175, 100);
+noFill ();
+strokeWeight (5);
+stroke (18, 3, 255);
+ellipse (35, 32, 50, 50);
+stroke (0, 0, 0);
+ellipse (90, 32, 50, 50);
+stroke (255, 3, 7);
+ellipse (145, 32, 50, 50);
+stroke (255, 247, 3);
+ellipse (62, 60, 50, 50);
+stroke (105, 227, 37);
+ellipse (118, 60, 50, 50);
