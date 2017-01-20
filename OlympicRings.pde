@@ -1,14 +1,4 @@
-// Andy Smith
-// OlympicRings
-
-// snowman head
-ellipse(10, 100, 10, 10);
-ellipse(10, 10, 100, 10);
-ellipse(100, 10, 10, 10);
-
-//// snowman body
-//ellipse(20, 10, 10, 10);
-
-//// snowman feet
-//ellipse(10, 10, 10, 100);
+ // replace this with your code
+size(100, 100);
+ellipse(50, 50, 50, 50);
 
