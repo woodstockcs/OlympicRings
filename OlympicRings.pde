@@ -1,6 +1,6 @@
 // Carl Gebhardt
 // OlympicRings
-size(500,500);
+size(700,700);
 noFill();
 strokeWeight(10);
 stroke(0,0,255);
