@@ -17,7 +17,7 @@ In this assignment you will write a program that displays the Olympic Rings. You
 1. Update your forked version of `OlympicRings.pde`.
 1. Update the header and footer text of `index.html`.
 1. Check your work at `<YourUsername>.github.io/OlympicRings`
-1. Submit that link on google classroom.
+1. Create a pull request.
 
 ## Help
 For help on github (and the crazy words above like 'fork' and 'repo'), see the class github starter kit.
