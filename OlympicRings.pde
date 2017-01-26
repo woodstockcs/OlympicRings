@@ -1,4 +1,21 @@
- // replace this with your code
-size(100, 100);
-ellipse(50, 50, 50, 50);
-
+//Tristin Black
+//OlympicRings
+size(600,600);
+strokeWeight(4);
+stroke(0,0,255);
+noFill();
+ellipse(75,150,100,100);
+noFill();
+stroke(0,255,0);
+ellipse(175,150,100,100);
+noFill();
+stroke(255,0,0);
+ellipse(275,150,100,100);
+noFill();
+stroke(255,255,255);
+ellipse(125,220,100,100);
+noFill();
+stroke(4);
+ellipse(225,220,100,100);
+noFill();
+stroke(0,0,0);
