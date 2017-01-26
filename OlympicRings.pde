@@ -1,8 +1,8 @@
  //Andy Seiple
  //Olympicrings
+ size(270,230);
  strokeWeight(10);
  noFill();
- size(270,230);
  
  stroke(12,25,229);
  ellipse(50,100,75,75);
